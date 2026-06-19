@@ -1,0 +1,23 @@
+{
+  "name": "stochero",
+  "owner": {
+    "name": "Victor Stochero",
+    "url": "https://github.com/VictorStochero"
+  },
+  "metadata": {
+    "description": "Victor Stochero's Claude Code plugins — Laravel/dev workflow tools.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "laravel-worktree",
+      "source": {
+        "source": "github",
+        "repo": "VictorStochero/laravel-worktree"
+      },
+      "description": "Create, inspect, and clean up isolated git worktrees for Laravel projects across Herd, DDEV, and Sail.",
+      "category": "workflow",
+      "keywords": ["laravel", "worktree", "git", "herd", "ddev", "sail"]
+    }
+  ]
+}
