@@ -25,7 +25,7 @@
         "source": "github",
         "repo": "VictorStochero/fluxo-orca"
       },
-      "description": "Fluxo Laravel + Orca em pt-BR: delegação por workers do Orca, agentes escritor/revisor/verificador, fila de testes, revisão de cota, board do GitHub, ambiente Windows + Herd e skills de metodologia, com hooks que impõem as regras.",
+      "description": "Fluxo com o Orca em pt-BR para Laravel, Python e JS/TS (Windows, Linux, macOS): delegação por workers do Orca, worktree com banco próprio, agentes escritor/revisor/verificador, fila de testes, revisão de cota, board do GitHub, perfil do ambiente local e skills de metodologia, com hooks que impõem as regras. Instalador conduzido pela IA no GUIA.md.",
       "category": "workflow",
       "keywords": ["laravel", "orca", "herd", "workflow", "pt-br"]
     }
