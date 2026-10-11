@@ -18,6 +18,16 @@
       "description": "Create, inspect, and clean up isolated git worktrees for Laravel projects across Herd, DDEV, and Sail.",
       "category": "workflow",
       "keywords": ["laravel", "worktree", "git", "herd", "ddev", "sail"]
+    },
+    {
+      "name": "fluxo-orca",
+      "source": {
+        "source": "github",
+        "repo": "VictorStochero/fluxo-orca"
+      },
+      "description": "Fluxo Laravel + Orca em pt-BR: delegação por workers do Orca, agentes escritor/revisor/verificador, fila de testes, revisão de cota, board do GitHub, ambiente Windows + Herd e skills de metodologia, com hooks que impõem as regras.",
+      "category": "workflow",
+      "keywords": ["laravel", "orca", "herd", "workflow", "pt-br"]
     }
   ]
 }

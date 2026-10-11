@@ -19,6 +19,7 @@ Then install a plugin:
 | Plugin | Description | Repo |
 |---|---|---|
 | **laravel-worktree** | Create, inspect, and clean up isolated git worktrees for Laravel projects across Herd, DDEV, and Sail — full parallel environments (DB, `.env`, domain) in one command. | [VictorStochero/laravel-worktree](https://github.com/VictorStochero/laravel-worktree) |
+| **fluxo-orca** | (pt-BR) Laravel + Orca workflow: Orca worker delegation, writer/reviewer/verifier agents, machine-wide test queue, quota check, GitHub board rules, Windows + Herd environment, methodology skills, and hooks that enforce them. | [VictorStochero/fluxo-orca](https://github.com/VictorStochero/fluxo-orca) |
 
 ### Example
 
