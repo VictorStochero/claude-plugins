@@ -17,7 +17,14 @@
       },
       "description": "Create, inspect, and clean up isolated git worktrees for Laravel projects across Herd, DDEV, and Sail.",
       "category": "workflow",
-      "keywords": ["laravel", "worktree", "git", "herd", "ddev", "sail"]
+      "keywords": [
+        "laravel",
+        "worktree",
+        "git",
+        "herd",
+        "ddev",
+        "sail"
+      ]
     },
     {
       "name": "fluxo-orca",
@@ -27,7 +34,30 @@
       },
       "description": "Fluxo com o Orca em pt-BR para Laravel, Python e JS/TS (Windows, Linux, macOS): delegação por workers do Orca, worktree com banco próprio, agentes escritor/revisor/verificador, fila de testes, revisão de cota, board do GitHub, perfil do ambiente local e skills de metodologia, com hooks que impõem as regras. Instalador conduzido pela IA no GUIA.md.",
       "category": "workflow",
-      "keywords": ["laravel", "orca", "herd", "workflow", "pt-br"]
+      "keywords": [
+        "laravel",
+        "orca",
+        "herd",
+        "workflow",
+        "pt-br"
+      ]
+    },
+    {
+      "name": "auditoria-pre-subida",
+      "source": {
+        "source": "github",
+        "repo": "VictorStochero/auditoria-pre-subida"
+      },
+      "description": "(pt-BR) Auditoria obrigatória antes de subir: o diff da branch é auditado contra o guia de arquitetura do projeto, segurança e boas práticas da stack, com contraprova adversarial; um hook bloqueia PR, merge e push na base sem veredito aprovado. Qualquer projeto, só Claude Code.",
+      "category": "workflow",
+      "keywords": [
+        "auditoria",
+        "review",
+        "seguranca",
+        "arquitetura",
+        "pre-push",
+        "pt-br"
+      ]
     }
   ]
 }

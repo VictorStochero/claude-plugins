@@ -20,6 +20,7 @@ Then install a plugin:
 |---|---|---|
 | **laravel-worktree** | Create, inspect, and clean up isolated git worktrees for Laravel projects across Herd, DDEV, and Sail — full parallel environments (DB, `.env`, domain) in one command. | [VictorStochero/laravel-worktree](https://github.com/VictorStochero/laravel-worktree) |
 | **fluxo-orca** | (pt-BR) Orca workflow for Laravel, Python and JS/TS on Windows, Linux or macOS: Orca worker delegation, per-task worktrees with their own database, writer/reviewer/verifier agents, machine-wide test queue, quota check, GitHub board rules, local environment profile, methodology skills, and hooks that enforce them. AI-driven installer in `GUIA.md`. | [VictorStochero/fluxo-orca](https://github.com/VictorStochero/fluxo-orca) |
+| **auditoria-pre-subida** | (pt-BR) Mandatory pre-push audit: the branch diff is checked against the project's architecture guide, security and stack best practices, with an adversarial second pass; a hook blocks PR creation, merge and pushes to base branches until the commit has an approved verdict. Any project, Claude Code only. | [VictorStochero/auditoria-pre-subida](https://github.com/VictorStochero/auditoria-pre-subida) |
 
 ### Example
 
