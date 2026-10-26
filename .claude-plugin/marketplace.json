@@ -48,7 +48,7 @@
         "source": "github",
         "repo": "VictorStochero/auditoria-pre-subida"
       },
-      "description": "(pt-BR) Auditoria obrigatória antes de subir: o diff da branch é auditado contra o guia de arquitetura do projeto, segurança e boas práticas da stack, com contraprova adversarial; um hook bloqueia PR, merge e push na base sem veredito aprovado. Qualquer projeto, só Claude Code.",
+      "description": "(pt-BR) Auditoria antes de subir: o diff da branch é auditado em arquitetura (guia do projeto), segurança, boas práticas da stack e ponytail, com critérios embutidos e contraprova adversarial; nos repositórios que versionam `.auditoria-pre-subida`, um hook bloqueia PR, merge e push na base sem veredito aprovado. Qualquer projeto, só Claude Code.",
       "category": "workflow",
       "keywords": [
         "auditoria",
