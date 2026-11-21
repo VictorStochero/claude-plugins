@@ -48,7 +48,7 @@
         "source": "github",
         "repo": "VictorStochero/auditoria-pre-subida"
       },
-      "description": "(pt-BR) Auditoria antes de subir: o diff da branch é auditado em arquitetura (guia do projeto), segurança (OWASP Top 10:2025), boas práticas da stack e ponytail, com critérios embutidos, scanners de segredos e dependências (gitleaks, TruffleHog, Semgrep), mapa de ameaças por projeto e contraprova adversarial; nos repositórios que versionam `.auditoria-pre-subida`, um hook bloqueia PR, merge e push na base sem veredito aprovado. Qualquer projeto, só Claude Code.",
+      "description": "(pt-BR) Auditoria antes de subir: o diff da branch é auditado em arquitetura (guia do projeto), segurança (OWASP Top 10:2025), boas práticas da stack e ponytail, com critérios embutidos, scanners de segredos (gitleaks, TruffleHog), audit de dependências e Semgrep, mapa de ameaças por projeto e contraprova adversarial; nos repositórios que versionam `.auditoria-pre-subida`, um hook bloqueia PR, merge e push na base sem veredito aprovado. Qualquer projeto, só Claude Code.",
       "category": "workflow",
       "keywords": [
         "auditoria",
